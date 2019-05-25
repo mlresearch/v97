@@ -64,5 +64,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/beygelzimer19a/beygelzimer19a-supp.pdf
+- label: Code
+  link: https://github.com/bahh723/separable-bandit-classification.git
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

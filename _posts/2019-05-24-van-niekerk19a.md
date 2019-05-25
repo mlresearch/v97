@@ -53,5 +53,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/van-niekerk19a/van-niekerk19a-supp.pdf
+- label: Code
+  link: https://github.com/raillab/composition
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

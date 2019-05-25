@@ -66,5 +66,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/abu-el-haija19a/abu-el-haija19a-supp.pdf
+- label: Code
+  link: https://github.com/samihaija/mixhop
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

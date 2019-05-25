@@ -52,5 +52,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/charoenphakdee19a/charoenphakdee19a-supp.pdf
+- label: Code
+  link: https://github.com/nolfwin/symloss-ber-auc
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

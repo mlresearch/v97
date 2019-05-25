@@ -52,5 +52,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/lichtenberg19a/lichtenberg19a-supp.pdf
+- label: Code
+  link: https://github.com/janmaltel/stew-tetris
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

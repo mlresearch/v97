@@ -54,5 +54,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/kleindessner19a/kleindessner19a-supp.pdf
+- label: Code
+  link: https://github.com/matthklein/fair_k_center_clustering
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

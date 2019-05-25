@@ -54,5 +54,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/ghadikolaei19a/ghadikolaei19a-supp.pdf
+- label: Code
+  link: https://github.com/hshokrig/Learning-and-compression-for-big-datasets
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---

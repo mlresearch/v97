@@ -57,5 +57,7 @@ issued:
 extras:
 - label: Supplementary PDF
   link: http://proceedings.mlr.press/v97/gazagnadou19a/gazagnadou19a-supp.pdf
+- label: Code
+  link: https://github.com/gowerrobert/StochOpt.jl
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
