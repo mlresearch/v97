@@ -35,7 +35,7 @@ editor:
   family: Chaudhuri
 - given: Ruslan
   family: Salakhutdinov
-bibtex_author: Lichtenberg, Jan and {\"O}zg{\"u}r Simsek
+bibtex_author: Lichtenberg, Jan and {\c{S}im\c{s}ek}, {\"{O}}zg\"{u}r
 author:
 - given: Jan
   family: Lichtenberg
