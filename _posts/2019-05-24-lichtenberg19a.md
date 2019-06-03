@@ -35,12 +35,12 @@ editor:
   family: Chaudhuri
 - given: Ruslan
   family: Salakhutdinov
-bibtex_author: Lichtenberg, Jan and {\c{S}im\c{s}ek}, {\"{O}}zg\"{u}r
+bibtex_author: Lichtenberg, Jan Malte and {\c{S}im\c{s}ek}, {\"{O}}zg\"{u}r
 author:
-- given: Jan
+- given: Jan Malte
   family: Lichtenberg
-- given: ''
-  family: Simsek
+- given: Özgür
+  family: Şimşek
 date: 2019-05-24
 container-title: Proceedings of the 36th International Conference on Machine Learning
 genre: inproceedings
