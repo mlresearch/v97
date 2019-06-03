@@ -39,21 +39,20 @@ editor:
   family: Chaudhuri
 - given: Ruslan
   family: Salakhutdinov
-bibtex_author: Lazic, Nevena and Abbasi-Yadkori, Yasin and Bhatia, Kush and Weisz,
-  Gellert and Bartlett, Peter and Szepesvari, Csaba
-author:
-- given: Nevena
-  family: Lazic
-- given: Yasin
-  family: Abbasi-Yadkori
-- given: Kush
-  family: Bhatia
-- given: Gellert
-  family: Weisz
-- given: Peter
-  family: Bartlett
-- given: Csaba
-  family: Szepesvari
+  bibtex_author: Abbasi-Yadkori, Yasin and Bartlett, Peter and Bhatia, Kush and Lazic, Nevena and Szepesvari, Csaba and Weisz, Gellert
+  author:
+  - given: Yasin
+    family: Abbasi-Yadkori
+  - given: Peter
+    family: Bartlett
+  - given: Kush
+    family: Bhatia
+  - given: Nevena
+    family: Lazic
+  - given: Csaba
+    family: Szepesvari
+  - given: Gellert
+    family: Weisz
 date: 2019-05-24
 container-title: Proceedings of the 36th International Conference on Machine Learning
 genre: inproceedings
