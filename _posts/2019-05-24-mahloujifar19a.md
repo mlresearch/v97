@@ -24,7 +24,7 @@ abstract: In this work, we demonstrate universal multi-party poisoning attacks t
   the data shared so far.
 layout: inproceedings
 id: mahloujifar19a
-tex_title: Data Poisoning Attacks in Multi-Party Learning
+tex_title: Universal Multi-Party Poisoning Attacks
 firstpage: 4274
 lastpage: 4283
 page: 4274-4283
