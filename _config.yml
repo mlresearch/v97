@@ -7,6 +7,8 @@ start: 2019-06-09
 end: 2019-06-15
 published: 2019-05-24
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 conference_number: '36'
 layout: proceedings
 series: Proceedings of Machine Learning Research
