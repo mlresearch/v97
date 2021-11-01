@@ -1,5 +1,5 @@
 ---
-title: Data Poisoning Attacks in Multi-Party Learning
+title: Universal Multi-Party Poisoning Attacks
 booktitle: Proceedings of the 36th International Conference on Machine Learning
 year: '2019'
 volume: '97'
